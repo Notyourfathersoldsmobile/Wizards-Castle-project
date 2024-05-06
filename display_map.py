@@ -40,3 +40,4 @@ def display_map_and_adjacent_rooms():
 
     # Call subroutine to update status information
     update_status_info()
+
