@@ -1,7 +1,9 @@
+import random
+
 # Main processing loop
 def main_processing():
-    global T, GP, RF, OF, BL, X, Y, Z, ST, IQ, DX, FL, WV, AV, LF, TC, WC
-    
+    global T, GP, RF, OF, BL, X, Y, Z, ST, IQ, DX, FL, WV, AV, LF, TC, WC, L, FND
+
     T += 1
 
     # Check if player is affected by traps or obstacles
